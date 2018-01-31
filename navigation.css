@@ -1,0 +1,26 @@
+ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+}
+
+
+/* color change */
+a {
+    color: red;
+    text-decoration: none;
+}
+
+.hover-1 a:hover {
+    color: orange;
+}
+
+.hover-2 a:hover {
+    background-color: aquamarine;
+}
+
+.hover-3 on click {
+    grow 5x left and right
+}
